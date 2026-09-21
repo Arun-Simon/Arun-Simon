@@ -2,9 +2,8 @@
 
 ### DevOps Engineer | Cloud & Automation
 
-> Curious about how things work.  
-> Driven to build, automate, and keep learning.
+> Build. Break. Learn. Automate. Repeat.
 
-☁️ AWS • ☸️ Kubernetes • 🏗️ Terraform • 🐳 Docker • ⚙️ CI/CD • 🐍 Python
+Working with AWS, Kubernetes, Terraform, Docker, CI/CD and Python.
 
-Always exploring. Always building. 🚀
+Curious by nature. Building by choice. 🚀
