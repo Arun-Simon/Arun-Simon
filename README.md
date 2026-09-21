@@ -25,3 +25,36 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,linux,bash,githubactions,git,python" />
 </p>
+
+
+<h1 align="center">Building the Infrastructure Behind the Code ⚙️</h1>
+
+<p align="center">
+  <img
+    src="./assets/devops-banner.png"
+    alt="DevOps and Cloud Engineering"
+    width="850"
+  />
+</p>
+
+<br><br>
+
+## 🔗 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/arun-simon/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Arun-Simon">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+<br>
+
+## ☁️ Cloud & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,linux,bash,githubactions,git,python" />
+</p>
