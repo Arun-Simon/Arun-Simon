@@ -1,8 +1,27 @@
-# Hey 👋, I'm Arun
+<h1 align="center">Hey 👋, I'm Arun Simon</h1>
 
-### Curious mind. Builder at heart.
+<p align="center">
+  <img alt="DevOps" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+</p>
 
-I enjoy understanding how things work, building them,
-and finding ways to make them better.
+<br><br>
 
-☁️ Cloud • ⚙️ DevOps • ☸️ Kubernetes • 🏗️ Automation
+## 🌐 Connect With Me:
+
+<p>
+  <a href="https://www.linkedin.com/in/arun-simon/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Arun-Simon" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+<br>
+
+## ☁️ DevOps & Cloud:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,linux,bash,githubactions,git,python" />
+</p>
