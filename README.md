@@ -1,6 +1,8 @@
 # Hey 👋, I'm Arun
 
-### Curious about how things work.  
-### Passionate about building and automating them.
+### Curious mind. Builder at heart.
 
-☁️ Cloud • ⚙️ DevOps • ☸️ Kubernetes • 🏗️ Infrastructure
+I enjoy understanding how things work, building them,
+and finding ways to make them better.
+
+☁️ Cloud • ⚙️ DevOps • ☸️ Kubernetes • 🏗️ Automation
