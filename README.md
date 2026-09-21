@@ -1,9 +1,8 @@
 # Hi, I'm Arun 👋
 
-### DevOps Engineer | Cloud & Automation
+> I like understanding how things work —  
+> then finding better ways to make them work.
 
-> Build. Break. Learn. Automate. Repeat.
+☁️ Cloud | ⚙️ Automation | ☸️ Kubernetes | 🏗️ Infrastructure
 
-Working with AWS, Kubernetes, Terraform, Docker, CI/CD and Python.
-
-Curious by nature. Building by choice. 🚀
+Learning. Building. Improving. 🚀
