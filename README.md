@@ -1,7 +1,7 @@
 <h1 align="center">Building the Infrastructure Behind the Code ⚙️</h1>
 
 <p align="center">
-  <img alt="DevOps" width="400" src="YOUR_GIF_HERE">
+  <img alt="DevOps" width="400" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dm80N2dyZW5jMnpwMTBjZGdrN2VmbGlnemtyOHJ5azZteDBmbXN6NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8Cyw1ritnBq8aE9Sea/giphy.gif">
 </p>
 
 <br><br>
