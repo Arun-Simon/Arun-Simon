@@ -1,8 +1,8 @@
-# Hi, I'm Arun 👋
+# Arun Simon 👋
 
-> I like understanding how things work —  
-> then finding better ways to make them work.
+> Curious mind. Builder at heart.  
+> Turning ideas into infrastructure.
 
-☁️ Cloud | ⚙️ Automation | ☸️ Kubernetes | 🏗️ Infrastructure
+☁️ AWS • ☸️ Kubernetes • 🏗️ Terraform • ⚙️ DevOps
 
-Learning. Building. Improving. 🚀
+🚀 Learn → Build → Automate
